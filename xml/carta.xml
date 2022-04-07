@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <platos grupo="nachos">
+        <nombre>Nachos con queso</nombre>
+        <precio>12€</precio>
+        <desc>Totopos con queso, guacamole , chili con carne al horno y pico de gallo.</desc>
+        <cal>306 kcal Grasa: 16g, carbohidratos: 32.15g, Proteína: 8g.</cal>
+        <caract nombre="caract">
+            <item>picante</item>
+            <item>picante</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+        <platos grupo="nachos">
+        <nombre>Nachos con frijoles y aguacate</nombre>
+        <precio>13€</precio>
+        <desc>Totopos con frijoles, aguacate y queso vegano.</desc>
+        <cal>250 kcal Grasa: 19g, carbohidratos: 25g, Proteína: 6g.</cal>
+        <caract nombre="caract">
+            <item>vegano</item>
+        </caract>
+    </platos>
+    <platos grupo="nachos">
+        <nombre>Nachos de la casa</nombre>
+        <precio>14.50€</precio>
+        <desc>Totopos, tres tipos de quesos, frijoles, pico de gallo, tinga de pollo, tinga de ternera, guacamole y crema agria.</desc>
+        <cal>290 kcal Grasa: 22g, carbohidratos: 29g, Proteína: 10g.</cal>
+        <caract nombre="caract">
+            <item>gluten</item>
+            <item>estrella</item>
+        </caract>
+    </platos>
+    <platos grupo="nachos">
+        <nombre>Nachos con guacamole</nombre>
+        <precio>10€</precio>
+        <desc>Totopos con guacamole, jalapeños, pico de gallo y salsa de queso cheddar. </desc>
+        <cal>230 kcal Grasa: 16g, carbohidratos: 32.15g, Proteína: 8g.</cal>
+        <caract nombre="caract">
+            <item>picante</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+    <platos grupo="quesadillas">
+        <nombre>Quesadillas de frijoles</nombre>
+        <precio>13€</precio>
+        <desc>Quesadillas de frijoles refritos y queso fundente.</desc>
+        <cal>240 kcal Grasa: 6g, carbohidratos: 38g, Proteína: 10g.</cal>
+        <caract>
+            <item>picante</item>
+        </caract>
+    </platos>
+    <platos grupo="quesadillas">
+        <nombre>Quesadillas de jamon y queso</nombre>
+        <precio>11€</precio>
+        <desc>Tortillas de trigo rellenas de jamón cocido, queso cheddar y mozzarella.</desc>
+        <cal>310 kcal Grasa: 9g, carbohidratos: 39g.</cal>
+        <caract>
+
+        </caract>
+    </platos>
+    <platos grupo="quesadillas">
+        <nombre>Quesadillas de champiñones</nombre>
+        <precio>14€</precio>
+        <desc>Tortillas de maíz rellenas de champiñones, mozzarella, cebolla y acompañado de salsa de chile chipotle.</desc>
+        <cal>310 kcal Grasa: 9g, carbohidratos: 39g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>picante</item>
+            <item>vegano</item>
+        </caract>
+    </platos>
+        <platos grupo="quesadillas">
+        <nombre>Quesadillas de pollo</nombre>
+        <precio>14€</precio>
+        <desc>Están rellenas de pollo, pimiento negro, cebolla y queso emmental.</desc>
+        <cal>380 kcal Grasa: 6g, carbohidratos: 29g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>picante</item>
+            <item>vegano</item>
+        </caract>
+    </platos>
+    <platos grupo="enchiladas">
+        <nombre>Enchilada verde</nombre>
+        <precio>13€</precio>
+        <desc>Pechuga de pollo, cebolla blanca, chile serrano y tomates verdes fritos.</desc>
+        <cal>234 kcal Grasa: 12g, carbohidratos: 19g, Proteína: 13g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+        <platos grupo="enchiladas">
+        <nombre>Enchilada tamaulipecas</nombre>
+        <precio>16€</precio>
+        <desc>Tortillas de maíz rellena de queso cotija acompañados de una salsa de chiles, ajos y cebolla.</desc>
+        <cal>260 kcal Grasa: 14g, carbohidratos: 16g, Proteína: 19g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>picante</item>
+        </caract>
+    </platos>
+        <platos grupo="enchiladas">
+        <nombre>Enchilada de mole</nombre>
+        <precio>11€</precio>
+        <desc>Pollo deshebrado con salsa de mole.</desc>
+        <cal>210 kcal Grasa: 9g, carbohidratos: 13g, Proteína: 8g.</cal>
+        <caract>
+
+        </caract>
+    </platos>
+        <platos grupo="enchiladas">
+        <nombre>Enchilada roja</nombre>
+        <precio>13€</precio>
+        <desc>Relleno de queso, carne de res deshebrada con salsa roja.</desc>
+        <cal>234 kcal Grasa: 12g, carbohidratos: 19g, Proteína: 13g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>picante</item>
+            <item>picante</item>
+        </caract>
+    </platos>
+    <platos grupo="burritos">
+        <nombre>Burritos de carne y frijoles</nombre>
+        <precio>9€</precio>
+        <desc>Burritos de carne magra de cerdo, cebolla y pimiento.</desc>
+        <cal>303 kcal Grasa: 14g, carbohidratos: 23g, Proteína: 18g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>picante</item>
+            <item>picante</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+        <platos grupo="burritos">
+        <nombre>Burritos vegetarianos</nombre>
+        <precio>17€</precio>
+        <desc>Rellenados de alubias negras, chile molido, pimiento y soja texturizada.</desc>
+        <cal>240 kcal Grasa: 9g, carbohidratos: 15g, Proteína: 15g.</cal>
+        <caract>
+            <item>vegano</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+        <platos grupo="burritos">
+        <nombre>Burritos de carne de res</nombre>
+        <precio>12€</precio>
+        <desc>Tortillas de harina rellenas de falda de res y jitomates picados.</desc>
+        <cal>280 kcal Grasa: 15g, carbohidratos: 26g, Proteína: 15g.</cal>
+        <caract>
+            <item>picante</item>
+        </caract>
+    </platos>
+        <platos grupo="burritos">
+        <nombre>Burritos de chochinita pibil al carbón</nombre>
+        <precio>10€</precio>
+        <desc>Burritos con chochinita pibil, queso fundido, arroz, frijoles, lechuga, pico de gallo y salsa chipotle.</desc>
+        <cal>303 kcal Grasa: 14g, carbohidratos: 23g, Proteína: 18g.</cal>
+        <caract>
+            <item>picante</item>
+            <item>estrella</item>
+        </caract>
+    </platos>
+    <platos grupo="postres">
+        <nombre>Plátanos flambeados con tequila</nombre>
+        <precio>8€</precio>
+        <desc>Plátanos acompañados de helado de vainilla.</desc>
+        <cal>400 kcal Grasa: 30g, azúcar: 50g.</cal>
+        <caract>
+            <item>vegano</item>
+            <item>gluten</item>
+        </caract>
+    </platos>
+        <platos grupo="postres">
+        <nombre>Pan de elote</nombre>
+        <precio>5€</precio>
+        <desc>Esponjoso bizcocho hecho a partir de elotes frescos desgranados y salsa de chocolate.</desc>
+        <cal>167 kcal Grasa: 13g, carbohidratos: 30g.</cal>
+        <caract>
+            <item>estrella</item>
+        </caract>
+    </platos>
+    <platos grupo="postres">
+        <nombre>Tamales de piña y nuez</nombre>
+        <precio>8€</precio>
+        <desc>Hecho a base de maíz y relleno de piña con su jugo, pasas y nueces.</desc>
+        <cal>148 kcal Grasa: 7g, carbohidratos: 17g.</cal>
+        <caract>
+            <item>vegano</item>
+        </caract>
+    </platos>
+        <platos grupo="postres">
+        <nombre>Gorditas de nata</nombre>
+        <precio>10€</precio>
+        <desc>Bizcochitos de huevo, nata liquida, leche condensada, harina y vainilla.</desc>
+        <cal>187 kcal Grasa: 4.7g, carbohidratos: 33g.</cal>
+        <caract>
+
+        </caract>
+    </platos>
+</menu>
+    
