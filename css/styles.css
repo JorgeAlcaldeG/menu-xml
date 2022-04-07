@@ -181,11 +181,21 @@ body {
 /*Estilo del desplegable*/
 
 .accordion-body {
-    background-color: rgb(240, 214, 185);
+    background-color: rgb(255, 216, 169);
 }
 
 .accordion-button {
-    background-color: rgb(239, 227, 212);
+    background-color: rgb(255, 255, 255);
+}
+
+
+/* .accordion-button:focus {
+    border-color: #fc2121;
+} */
+
+.accordion-button:not(.collapsed) {
+    color: #000000;
+    background-color: rgb(243, 235, 224);
 }
 
 
