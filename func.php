@@ -22,7 +22,7 @@ function showinfo($grupo,$count){
             $count++;
 //Mostramos la información
 
-                echo '<p class="titulocomida">'.$plato -> nombre.' <span class="precio">'.$plato -> precio.' </span></p>';
+                echo '<p class="titulocomida">'.$plato -> nombre.' '.'<span class="precio">'.$plato -> precio.' </span></p>';
                 // echo '<p>'.$plato -> precio.'</p>';
 //Iconos
             foreach ($plato -> caract ->item as $icon){
