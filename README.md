@@ -1,2 +1,2 @@
 # menu-xml
-![foto_resultado](/Menú.PNG)
+![foto_resultado](Menú.PNG)
